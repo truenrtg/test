@@ -2,8 +2,7 @@ aaa
 bbb
 ccc
 fdsa
-<<<<<<< HEAD
 ddfas
-=======
-assdgit
->>>>>>> new
+
+dsadsa
+dsㅎㅇㄴ
